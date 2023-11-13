@@ -1,5 +1,5 @@
 [Nabaraj Rai](https://github.com/nabarajrai)
-We hate this person ^^^
+## We hate this person ^
 - 🔭 Facebook Profile:  [Sameer Kirat Dewas](https://www.facebook.com/samee.rae0738/)
 - 🌱 I’m currently learning: [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 👯 I’m looking to collaborate on open source project which makes life easier.
