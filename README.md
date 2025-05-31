@@ -3,7 +3,7 @@
 - 🔭 Facebook Profile:  [Sameer Kirat Dewas](https://www.facebook.com/samee.rae0738/)
 - 🌱 I’m currently learning: [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 👯 I’m looking to collaborate on open source project which makes life easier.
-- 👾 I'm currently working on [Frontyweb.com](https://frontyweb.com/)
+- 👾 I'm currently working on nothing.
 - 📫 How to reach me: sameernt0738@gmail.com
 
 ## 🚀💻 Technologies & Tools
